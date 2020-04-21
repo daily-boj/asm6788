@@ -3,4 +3,4 @@ Newbie™
 
 | #     | 문제              |날짜        | 링크                                                                                                         |
 |:------|:------------------|:-----------|:-------------------------------------------------------------------------------------------------------------|
-| 4378 | 트ㅏㅊ;                | 2020-04-20 | [문제](https://www.acmicpc.net/problem/4378)<br>[코드 (C)](https://github.com/daily-boj/asm6788/blob/master/Program.cs)      |
+| 4378 | 트ㅏㅊ;                | 2020-04-20 | [문제](https://www.acmicpc.net/problem/4378)<br>[코드 (C)](https://github.com/daily-boj/asm6788/blob/master/P04378/Program.cs)      |
